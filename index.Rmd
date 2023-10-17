@@ -1,6 +1,8 @@
 ---
 title: "Reabilitação cardiovascular"
-author: "Ferreira AS"
+author:
+  - "Gabriel Parisotto, MSc"
+  - "Arthur de Sá Ferreira, DSc"
 date: "`r Sys.Date()`"
 output: html_document
 ---
