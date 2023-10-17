@@ -1,0 +1,35 @@
+---
+title: Reabilitação cardíaca
+date: '`r format(Sys.Date())`'
+author:
+  - name: Gabriel Parisotto, MSc
+  - name: Arthur de Sá Ferreira, DSc
+repository_url: https://ppgcr-unisuam.github.io/reab-cardiaca/
+creative_commons: CC BY-NC
+output_dir: docs
+search: true
+navbar:
+  left:
+    - text: ""
+      icon: "fa-home"
+      href: [index.html]
+
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    css:
+      - style.css
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    edit: null
+    sharing:
+      facebook: yes
+      twitter: yes
+      google: yes
+      all:
+        - facebook
+        - twitter
+        - google
+---

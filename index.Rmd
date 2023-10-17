@@ -1,15 +1,10 @@
 ---
-title: "Reabilitação cardiovascular"
+title: Reabilitação cardíaca
+date: '`r format(Sys.Date())`'
 author:
-  - "Gabriel Parisotto, MSc"
-  - "Arthur de Sá Ferreira, DSc"
-date: "`r Sys.Date()`"
-output: html_document
+  - name: Gabriel Parisotto, MSc
+  - name: Arthur de Sá Ferreira, DSc
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## R Markdown
 
