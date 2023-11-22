@@ -4,11 +4,26 @@ date: '`r format(Sys.Date())`'
 author:
   - name: Gabriel Parisotto, MSc
   - name: Arthur de Sá Ferreira, DSc
+
+geometry: "top=3cm,left=3cm,right=2cm,bottom=2cm"
+link-citations: yes
+always_allow_html: true
+documentclass: book
+papersize: a4
+
+output:
+  html_document:
+    toc: false
+  bookdown::pdf_book:
+    number_sections: false
+    includes:
+    latex_engine: xelatex
+    keep_tex: no
 ---
 
 <br>
 
-# ![](coracao1.png) **O que é doença cardiovascular?**
+# ![](imagens/coracao1.png) **O que é doença cardiovascular?**
 
 <br>
 
@@ -16,7 +31,7 @@ A Organização Mundial da Saúde (OMS) considera as doenças cardiovasculares c
 
 <br>
 
-# ![](causa2.png) **Quais as causas da doença cardiovascular?**
+# ![](imagens/causa2.png) **Quais as causas da doença cardiovascular?**
 
 <br>
 
@@ -44,23 +59,23 @@ Os principais fatores de riscos são:
 
 <br>
 
-![](Cuidado.png)	Cuidado	com	situações	de estresse!
+![](imagens/Cuidado.png)	Cuidado	com	situações	de estresse!
  
-![](Jejum.png)	Evite longos períodos em jejum e tente comer de 3 em 3 horas;
+![](imagens/Jejum.png)	Evite longos períodos em jejum e tente comer de 3 em 3 horas;
 
-![](Sal.png) Precisamos de sal no organismo, mas em pouca quantidade (5 g/dia);
+![](imagens/Sal.png) Precisamos de sal no organismo, mas em pouca quantidade (5 g/dia);
 
-![](Bebida alcoolica.png) Interrompa		o	consumo	de bebida		alcóolica,		cigarro, alimentos gordurosos e com alto teor	de		açúcar	(sorvetes, refrigerantes, etc);
+![](imagens/Bebida alcoolica.png) Interrompa		o	consumo	de bebida		alcóolica,		cigarro, alimentos gordurosos e com alto teor	de		açúcar	(sorvetes, refrigerantes, etc);
  
-![](Atividade fisica.png) Não realize exercícios em jejum, use roupas adequadas para a prática dos exercícios. Pratique 150 minutos de exercícios semanais de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo);
+![](imagens/Atividade fisica.png) Não realize exercícios em jejum, use roupas adequadas para a prática dos exercícios. Pratique 150 minutos de exercícios semanais de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo);
 
-![](Hidrate.png)Hidrate-se antes, durante e após os exercícios;
+![](imagens/Hidrate.png)Hidrate-se antes, durante e após os exercícios;
 
-![](urgência.png)Faça acompanhamento com equipe	multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular, Nutricionista);
+![](imagens/urgência.png)Faça acompanhamento com equipe	multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular, Nutricionista);
 
 <br>
 
-# ![](Roupas.png) **Orientação de atividade domiciliar**
+# ![](imagens/Roupas.png) **Orientação de atividade domiciliar**
 
 <br>
 
@@ -72,11 +87,11 @@ Os principais fatores de riscos são:
 
 <br>
 
-![](Recomendacao4.png)
+![](imagens/Recomendacao4.png)
 
 <br>
 
-# ![](Equipe4.png) **Quando procurar o serviço de urgência/emergência?**
+# ![](imagens/Equipe4.png) **Quando procurar o serviço de urgência/emergência?**
 
 <br>
 
@@ -84,7 +99,7 @@ Se sentir algum mal-estar como: dor no peito, procure imediatamente o pronto soc
 
 <br>
 
-# ![](Fisioterapia5.png) **Equipe de Fisioterapia**
+# ![](imagens/Fisioterapia5.png) **Equipe de Fisioterapia**
 
 <br>
 

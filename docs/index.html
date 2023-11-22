@@ -30,9 +30,6 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -226,69 +223,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -296,16 +230,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -338,7 +262,13 @@ div.tocify {
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        
+        <li>
+  <a href="index.pdf">
+    <span class="fa fa-file-pdf"></span>
+     
+    Cartilha
+  </a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -358,7 +288,7 @@ div.tocify {
 
 <p><br></p>
 <div id="o-que-é-doença-cardiovascular" class="section level1">
-<h1><img src="Coracao1.png" /> <strong>O que é doença
+<h1><img src="imagens/Coracao1.png" /> <strong>O que é doença
 cardiovascular?</strong></h1>
 <p><br></p>
 <p>A Organização Mundial da Saúde (OMS) considera as doenças
@@ -371,7 +301,7 @@ a ataques cardíacos e acidentes vasculares cerebrais (AVCs).</p>
 </div>
 <div id="quais-as-causas-da-doença-cardiovascular"
 class="section level1">
-<h1><img src="Causa2.png" /> <strong>Quais as causas da doença
+<h1><img src="imagens/Causa2.png" /> <strong>Quais as causas da doença
 cardiovascular?</strong></h1>
 <p><br></p>
 <p>Os principais fatores de riscos são: <br> - Tabagismo <br> - Uso
@@ -383,27 +313,28 @@ Obesidade <br> - Diabetes Mellitus</p>
 <div id="orientações-após-a-alta-hospitalar" class="section level1">
 <h1><strong>Orientações após a alta hospitalar</strong></h1>
 <p><br></p>
-<p><img src="Cuidado.png" /> Cuidado com situações de estresse!</p>
-<p><img src="Jejum.png" /> Evite longos períodos em jejum e tente comer
-de 3 em 3 horas;</p>
-<p><img src="Sal.png" /> Precisamos de sal no organismo, mas em pouca
-quantidade (5 g/dia);</p>
-<p><img src="Bebida%20alcoolica.png" /> Interrompa o consumo de bebida
-alcóolica, cigarro, alimentos gordurosos e com alto teor de açúcar
-(sorvetes, refrigerantes, etc);</p>
-<p><img src="Atividade%20fisica.png" /> Não realize exercícios em jejum,
-use roupas adequadas para a prática dos exercícios. Pratique 150 minutos
-de exercícios semanais de intensidade leve/moderada (caminhada,
-exercício ativo livre, bicicleta, atividades em grupo);</p>
-<p><img src="Hidrate.png" />Hidrate-se antes, durante e após os
+<p><img src="imagens/Cuidado.png" /> Cuidado com situações de
+estresse!</p>
+<p><img src="imagens/Jejum.png" /> Evite longos períodos em jejum e
+tente comer de 3 em 3 horas;</p>
+<p><img src="imagens/Sal.png" /> Precisamos de sal no organismo, mas em
+pouca quantidade (5 g/dia);</p>
+<p><img src="imagens/Bebida%20alcoolica.png" /> Interrompa o consumo de
+bebida alcóolica, cigarro, alimentos gordurosos e com alto teor de
+açúcar (sorvetes, refrigerantes, etc);</p>
+<p><img src="imagens/Atividade%20fisica.png" /> Não realize exercícios
+em jejum, use roupas adequadas para a prática dos exercícios. Pratique
+150 minutos de exercícios semanais de intensidade leve/moderada
+(caminhada, exercício ativo livre, bicicleta, atividades em grupo);</p>
+<p><img src="imagens/Hidrate.png" />Hidrate-se antes, durante e após os
 exercícios;</p>
-<p><img src="Urg%C3%AAncia.png" />Faça acompanhamento com equipe
+<p><img src="imagens/Urg%C3%AAncia.png" />Faça acompanhamento com equipe
 multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular,
 Nutricionista);</p>
 <p><br></p>
 </div>
 <div id="orientação-de-atividade-domiciliar" class="section level1">
-<h1><img src="Roupas.png" /> <strong>Orientação de atividade
+<h1><img src="imagens/Roupas.png" /> <strong>Orientação de atividade
 domiciliar</strong></h1>
 <p><br></p>
 <ul>
@@ -414,13 +345,13 @@ bicicleta ergométrica sem resistência, caminhada); <br></li>
 máxima/expiração máxima);</li>
 </ul>
 <p><br></p>
-<p><img src="Recomendacao4.png" /></p>
+<p><img src="imagens/Recomendacao4.png" /></p>
 <p><br></p>
 </div>
 <div id="quando-procurar-o-serviço-de-urgênciaemergência"
 class="section level1">
-<h1><img src="Equipe4.png" /> <strong>Quando procurar o serviço de
-urgência/emergência?</strong></h1>
+<h1><img src="imagens/Equipe4.png" /> <strong>Quando procurar o serviço
+de urgência/emergência?</strong></h1>
 <p><br></p>
 <p>Se sentir algum mal-estar como: dor no peito, procure imediatamente o
 pronto socorro mais próximio. Se você possui histórico familiar de
@@ -429,7 +360,7 @@ alto, tenha ainda mais atenção.</p>
 <p><br></p>
 </div>
 <div id="equipe-de-fisioterapia" class="section level1">
-<h1><img src="Fisioterapia5.png" /> <strong>Equipe de
+<h1><img src="imagens/Fisioterapia5.png" /> <strong>Equipe de
 Fisioterapia</strong></h1>
 <p><br></p>
 <p>Ananda Rodrigues</p>
@@ -504,8 +435,6 @@ Lattes</a> | <a href="mailto:gabriel_parizoto@yahoo.com.br">Email</a> |
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -538,35 +467,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
