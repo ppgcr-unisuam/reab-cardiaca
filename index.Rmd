@@ -6,22 +6,183 @@ author:
   - name: Arthur de Sá Ferreira, DSc
 ---
 
-## R Markdown
+<br>
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+# ![](coracao1.png) **O que é doença cardiovascular?**
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+<br>
 
-```{r cars}
-summary(cars)
-```
+A Organização Mundial da Saúde (OMS) considera as doenças cardiovasculares como parte de um grupo de doenças crônicas não transmissíveis (DCNT). Estima-se que 17,9 milhões de pessoas morreram por doenças cardiovasculares em 2016, representando 31% de todas as mortes em nível global. Destes óbitos, estima-se que 85% ocorrem devido a ataques cardíacos e acidentes vasculares cerebrais (AVCs).
 
-## Including Plots
+<br>
 
-You can also embed plots, for example:
+# ![](causa2.png) **Quais as causas da doença cardiovascular?**
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+<br>
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Os principais fatores de riscos são: 
+<br>
+- Tabagismo
+<br>
+- Uso abusivo do álcool
+<br>
+- Sedentarismo
+<br>
+- Hipertensão arterial Sistêmica 
+<br>
+- Colesterol alto
+<br>
+- Alimentação inadequada
+<br>
+- Obesidade
+<br>
+- Diabetes Mellitus
+
+<br>
+
+# **Orientações após a alta hospitalar**
+
+<br>
+
+![](Cuidado.png)	Cuidado	com	situações	de estresse!
+ 
+![](Jejum.png)	Evite longos períodos em jejum e tente comer de 3 em 3 horas;
+
+![](Sal.png) Precisamos de sal no organismo, mas em pouca quantidade (5 g/dia);
+
+![](Bebida alcoolica.png) Interrompa		o	consumo	de bebida		alcóolica,		cigarro, alimentos gordurosos e com alto teor	de		açúcar	(sorvetes, refrigerantes, etc);
+ 
+![](Atividade fisica.png) Não realize exercícios em jejum, use roupas adequadas para a prática dos exercícios. Pratique 150 minutos de exercícios semanais de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo);
+
+![](Hidrate.png)Hidrate-se antes, durante e após os exercícios;
+
+![](urgência.png)Faça acompanhamento com equipe	multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular, Nutricionista);
+
+<br>
+
+# ![](Roupas.png) **Orientação de atividade domiciliar**
+
+<br>
+
+- Exercícios aeróbicos (aquecimento, esteira ergométrica carga baixa, bicicleta ergométrica sem resistência, caminhada);
+<br>
+- Alongamentos gerais; 
+<br>
+- Exercícios para musculatura respiratória (inspiração máxima/expiração máxima);
+
+<br>
+
+![](Recomendacao4.png)
+
+<br>
+
+# ![](Equipe4.png) **Quando procurar o serviço de urgência/emergência?**
+
+<br>
+
+Se sentir algum mal-estar como: dor no peito, procure imediatamente o pronto socorro mais próximio. Se você possui histórico familiar de doença coronariana, for diabético, fumante, obeso ou possuir colesterol alto, tenha ainda mais atenção.
+
+<br>
+
+# ![](Fisioterapia5.png) **Equipe de Fisioterapia**
+
+<br>
+
+Ananda Rodrigues
+
+[Email](mailto:anandaarievilo@icloud.com) | +55 95 98102-6848
+
+<br>
+
+Danielly Barreto
+
+[Email](mailto:danielly.fisiorr@gmail.com) | +55 95 98112-4082
+
+<br>
+
+Dayanna Cristiny Castro
+
+[Currículo Lattes](http://lattes.cnpq.br/7572713717592560) |
+[Email](mailto:castrodayanna@yahoo.com.br) | +55 95 98100-5950
+
+<br>
+
+Gabriel Parisotto 
+
+[Currículo Lattes](https://lattes.cnpq.br/7092814362835725) |  [Email](mailto:gabriel_parizoto@yahoo.com.br) | +55 95 98120-4162
+
+<br>
+
+Helouise Canavarro
+
+[Currículo Lattes](http://lattes.cnpq.br/9578184749144795) |  [Email](mailto:helouisecs@gmail.com) | +55 95 99138-8319
+
+<br>
+
+Jessica Elmore
+
+[Currículo Lattes](http://lattes.cnpq.br/5132354074892683) |  [Email](mailto:elmorevick@gmail.com) | +55 95 9903-1473
+
+<br>
+
+João Victor Carvalho Reis
+
+[Currículo Lattes](http://lattes.cnpq.br/6590588285794581) |  [Email](mailto:victorcarvalhoreis@hotmail.com) | +55 95 98117-0587
+
+<br>
+
+Karolainy Mourão
+
+[Email](mailto:mouraokarolainy@gmail.com) | +55 95 99112-3899
+
+<br>
+
+Kássia Regina
+
+[Email](mailto:celsa_mateus@hotmail.com) | +55 95 99136-6022
+
+<br>
+
+Lidiellen Dionizio
+
+[Email](mailto:lidiellenjdionizio@gmail.com) | +55 95 98106-3996
+
+<br>
+
+Lisandro Cerveira
+
+[Currículo Lattes](http://lattes.cnpq.br/5430277146097344) |  [Email](mailto:gabriel_parizoto@yahoo.com.br) | +55 95 98120-4162
+
+<br>
+
+Lully Vieira
+
+[Email](mailto:lullyvieira92@gmail.com) | +55 95 99103-2843
+
+<br>
+
+Nayrla Carvalho
+
+[Currículo Lattes](http://lattes.cnpq.br/702351116861671)
+[Email](mailto:cnayrla@gmail.com) | +55 95 99111-1507
+
+<br>
+
+Roniel Silva
+
+[Email](mailto:roniel.silva21@gmail.com) | +55 95 99121-8978
+
+<br>
+
+Rosicléia Alves de Araújo
+
+[Email](mailto:cleiaa3217@gmail.com) | +55 95 99111-1507
+
+<br>
+
+Thereza Cristina
+
+[Email](mailto:therezacristina15@gmail.com) | +55 95 99161-8496
+
+
+

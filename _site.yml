@@ -13,6 +13,9 @@ navbar:
     - text: ""
       icon: "fa-home"
       href: [index.html]
+    - text: "Reabilitação Cardíaca"
+      icon: "fa-heart"
+      href: [reabilitacaocardiaca.html]
 
 output:
   html_document:
