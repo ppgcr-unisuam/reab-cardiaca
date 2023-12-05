@@ -23,35 +23,37 @@ output:
 
 <br>
 
-# ![](imagens/coracao1.png) **O que é doença cardiovascular?**
+# ![](imagens/Coracao1.png) **O que são doenças cardiovasculares?**
 
 <br>
 
-A Organização Mundial da Saúde (OMS) considera as doenças cardiovasculares como parte de um grupo de doenças crônicas não transmissíveis (DCNT). Estima-se que 17,9 milhões de pessoas morreram por doenças cardiovasculares em 2016, representando 31% de todas as mortes em nível global. Destes óbitos, estima-se que 85% ocorrem devido a ataques cardíacos e acidentes vasculares cerebrais (AVCs).
+As doenças crônicas não transmissivéis (DCNT) constituem o principal causa de morte em todo o mundo, sendo responsáveis por mortes prematuras, perda de qualidade de vida, além de adversos impactos econômicos e sociais.
+
+As DCNT são divididas em doenças cardiovasculares (DCV), doenças do trato respiratório e neoplasias e são responsáveis por cerca de 70% das mortes globais, equivalendo a mais de 38 milhões de mortes por ano.^[World Health Organization, 2020]
+
+Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são causadas por DCV. Distribuição similar é observada no Brasil, onde 72% das mortes resultam de DCNT, sendo 30% devido a DCV e 16% a neoplasias.^[Global Burden Disease, 2020]
 
 <br>
 
-# ![](imagens/causa2.png) **Quais as causas da doença cardiovascular?**
+# ![](imagens/Causa2.png) **Quais as causas da doença cardiovascular?**
 
 <br>
 
-Os principais fatores de riscos são: 
-<br>
-- Tabagismo
-<br>
-- Uso abusivo do álcool
-<br>
-- Sedentarismo
-<br>
-- Hipertensão arterial Sistêmica 
-<br>
-- Colesterol alto
-<br>
-- Alimentação inadequada
-<br>
-- Obesidade
-<br>
-- Diabetes Mellitus
+- Tabagismo^[Organização Pan-Americana de Saúde, 2022]
+
+- Uso abusivo do álcool^[Organização Pan-Americana de Saúde, 2022]
+
+- Sedentarismo^[Organização Pan-Americana de Saúde, 2022]
+
+- Hipertensão arterial Sistêmica^[Organização Pan-Americana de Saúde, 2022]
+
+- Colesterol alto^[Organização Pan-Americana de Saúde, 2022]
+
+- Alimentação inadequada^[Organização Pan-Americana de Saúde, 2022]
+
+- Obesidade^[Organização Pan-Americana de Saúde, 2022]
+
+- Diabetes Mellitus^[Organização Pan-Americana de Saúde, 2022]
 
 <br>
 
@@ -59,36 +61,33 @@ Os principais fatores de riscos são:
 
 <br>
 
-![](imagens/Cuidado.png)	Cuidado	com	situações	de estresse!
+![](imagens/Cuidado.png)	Cuidado	com	situações	de estresse
  
-![](imagens/Jejum.png)	Evite longos períodos em jejum e tente comer de 3 em 3 horas;
+![](imagens/Jejum.png)	Evite longos períodos em jejum e tente comer de 3 em 3 horas
 
-![](imagens/Sal.png) Precisamos de sal no organismo, mas em pouca quantidade (5 g/dia);
+![](imagens/Sal.png) Precisamos de sal no organismo, mas em pouca quantidade (Máximo 2 g/dia)^[Diretriz Brasileira de Hipertensão Arterial, 2020]
 
-![](imagens/Bebida alcoolica.png) Interrompa		o	consumo	de bebida		alcóolica,		cigarro, alimentos gordurosos e com alto teor	de		açúcar	(sorvetes, refrigerantes, etc);
- 
-![](imagens/Atividade fisica.png) Não realize exercícios em jejum, use roupas adequadas para a prática dos exercícios. Pratique 150 minutos de exercícios semanais de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo);
+![](imagens/Bebida alcoolica.png) Interrompa o	consumo	de bebida		alcóolica, cigarro, alimentos gordurosos e com alto teor de	açúcar (sorvetes, refrigerantes, etc)
 
-![](imagens/Hidrate.png)Hidrate-se antes, durante e após os exercícios;
+![](imagens/Atividade fisica.png) Realize semanalmente 150 minutos de exercícios de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo)^[American Hearth Associoation, 2022]
 
-![](imagens/urgência.png)Faça acompanhamento com equipe	multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular, Nutricionista);
+![](imagens/Hidrate.png) Hidrate-se antes, durante e após os exercícios, a mulher sedentária necessita de 2,2 litros por dia e, caso seja homem sedentário, de 2,9 litros por dia^[World Health Oganization, 2020]
 
-<br>
-
-# ![](imagens/Roupas.png) **Orientação de atividade domiciliar**
+![](imagens/Urgência.png) Faça acompanhamento com equipe	multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular, Nutricionista)
 
 <br>
 
-- Exercícios aeróbicos (aquecimento, esteira ergométrica carga baixa, bicicleta ergométrica sem resistência, caminhada);
-<br>
-- Alongamentos gerais; 
-<br>
-- Exercícios para musculatura respiratória (inspiração máxima/expiração máxima);
+# ![](imagens/Roupas.png) **Orientação de atividade domiciliar** 
 
 <br>
 
+- Exercícios aeróbicos (aquecimento, esteira ergométrica carga baixa, bicicleta ergométrica sem resistência, caminhada)^[Diretriz Brasileira de Reabilitação Cardiovascular, 2020]
+
+- Alongamentos gerais^[Diretriz Brasileira de Reabilitação Cardiovascular, 2020]
+
+- Exercícios de treinamento para musculatura inspiratória (40 a 60 % da PIMax na alta hospitalar)^[Diretriz Brasileira de Reabilitação Cardiovascular, 2020]
+                                            
 <center>
-
 ![](imagens/Recomendacao4.png)
 </center>
 
@@ -98,7 +97,9 @@ Os principais fatores de riscos são:
 
 <br>
 
-Se sentir algum mal-estar como: dor no peito, procure imediatamente o pronto socorro mais próximio. Se você possui histórico familiar de doença coronariana, for diabético, fumante, obeso ou possuir colesterol alto, tenha ainda mais atenção.
+- Se sentir algum mal-estar como: dor no peito, procure imediatamente o pronto socorro mais próximio
+
+- Se você possui histórico familiar de doença coronariana, for diabético, fumante, obeso ou possuir colesterol alto, tenha ainda mais atenção.
 
 <br>
 
@@ -106,101 +107,37 @@ Se sentir algum mal-estar como: dor no peito, procure imediatamente o pronto soc
 
 <br>
 
-Ananda Rodrigues
+Ananda Rodrigues | [Email](mailto:anandaarievilo@icloud.com) | [Celular](tel:+55 95 98102-6848)
 
-[Email](mailto:anandaarievilo@icloud.com) | +55 95 98102-6848
+Danielly Barreto | [Email](mailto:danielly.fisiorr@gmail.com) | [Celular](tel:+55 95 98112-4082)
 
-<br>
+Dayanna Cristiny Castro |
+[Email](mailto:castrodayanna@yahoo.com.br) | [Celular](tel:+55 95 98100-5950) | [Currículo Lattes](http://lattes.cnpq.br/7572713717592560)
 
-Danielly Barreto
+Gabriel Parisotto |  [Email](mailto:gabriel_parizoto@yahoo.com.br) | [Celular](tel:+55 95 98120-4162) | [Currículo Lattes](https://lattes.cnpq.br/7092814362835725)
 
-[Email](mailto:danielly.fisiorr@gmail.com) | +55 95 98112-4082
+Helouise Canavarro|  [Email](mailto:helouisecs@gmail.com) | [Celular](tel:+55 95 99138-8319) | [Currículo Lattes](http://lattes.cnpq.br/9578184749144795)
 
-<br>
+Jessica Elmore |  [Email](mailto:elmorevick@gmail.com) | [Celular](tel:+55 95 9903-1473)  | [Currículo Lattes](http://lattes.cnpq.br/5132354074892683)
 
-Dayanna Cristiny Castro
+João Victor Carvalho Reis |  [Email](mailto:victorcarvalhoreis@hotmail.com) | [Celular](tel:+55 95 98117-0587) | [Currículo Lattes](http://lattes.cnpq.br/6590588285794581)
 
-[Currículo Lattes](http://lattes.cnpq.br/7572713717592560) |
-[Email](mailto:castrodayanna@yahoo.com.br) | +55 95 98100-5950
+Karolainy Mourão | [Email](mailto:mouraokarolainy@gmail.com) | [Celular](tel:+55 95 99112-3899)
 
-<br>
+Kássia Regina | [Email](mailto:celsa_mateus@hotmail.com) | [Celular](tel:+55 95 99136-6022)
 
-Gabriel Parisotto 
+Lidiellen Dionizio | [Email](mailto:lidiellenjdionizio@gmail.com) | [Celular](tel:+55 95 98106-3996)
 
-[Currículo Lattes](https://lattes.cnpq.br/7092814362835725) |  [Email](mailto:gabriel_parizoto@yahoo.com.br) | +55 95 98120-4162
+Lisandro Cerveira |  [Email](mailto:gabriel_parizoto@yahoo.com.br) | [Celular](tel:+55 95 98120-4162) | [Currículo Lattes](http://lattes.cnpq.br/5430277146097344)
 
-<br>
+Lully Vieira | [Email](mailto:lullyvieira92@gmail.com) | [Celular](tel:+55 95 99103-2843)
 
-Helouise Canavarro
+Nayrla Carvalho | [Email](mailto:cnayrla@gmail.com) | [Celular](tel:+55 95 99111-1507) | [Currículo Lattes](http://lattes.cnpq.br/702351116861671)
 
-[Currículo Lattes](http://lattes.cnpq.br/9578184749144795) |  [Email](mailto:helouisecs@gmail.com) | +55 95 99138-8319
+Roniel Silva | [Email](mailto:roniel.silva21@gmail.com) | [Celular](tel:+55 95 99121-8978)
 
-<br>
+Rosicléia Alves de Araújo | [Email](mailto:cleiaa3217@gmail.com) | [Celular](tel:+55 95 99111-1507)
 
-Jessica Elmore
-
-[Currículo Lattes](http://lattes.cnpq.br/5132354074892683) |  [Email](mailto:elmorevick@gmail.com) | +55 95 9903-1473
+Thereza Cristina | [Email](mailto:therezacristina15@gmail.com) | [Celular](tel:+55 95 99161-8496)
 
 <br>
-
-João Victor Carvalho Reis
-
-[Currículo Lattes](http://lattes.cnpq.br/6590588285794581) |  [Email](mailto:victorcarvalhoreis@hotmail.com) | +55 95 98117-0587
-
-<br>
-
-Karolainy Mourão
-
-[Email](mailto:mouraokarolainy@gmail.com) | +55 95 99112-3899
-
-<br>
-
-Kássia Regina
-
-[Email](mailto:celsa_mateus@hotmail.com) | +55 95 99136-6022
-
-<br>
-
-Lidiellen Dionizio
-
-[Email](mailto:lidiellenjdionizio@gmail.com) | +55 95 98106-3996
-
-<br>
-
-Lisandro Cerveira
-
-[Currículo Lattes](http://lattes.cnpq.br/5430277146097344) |  [Email](mailto:gabriel_parizoto@yahoo.com.br) | +55 95 98120-4162
-
-<br>
-
-Lully Vieira
-
-[Email](mailto:lullyvieira92@gmail.com) | +55 95 99103-2843
-
-<br>
-
-Nayrla Carvalho
-
-[Currículo Lattes](http://lattes.cnpq.br/702351116861671)
-[Email](mailto:cnayrla@gmail.com) | +55 95 99111-1507
-
-<br>
-
-Roniel Silva
-
-[Email](mailto:roniel.silva21@gmail.com) | +55 95 99121-8978
-
-<br>
-
-Rosicléia Alves de Araújo
-
-[Email](mailto:cleiaa3217@gmail.com) | +55 95 99111-1507
-
-<br>
-
-Thereza Cristina
-
-[Email](mailto:therezacristina15@gmail.com) | +55 95 99161-8496
-
-
-
