@@ -29,9 +29,9 @@ output:
 
 As doenças crônicas não transmissivéis (DCNT) constituem o principal causa de morte em todo o mundo, sendo responsáveis por mortes prematuras, perda de qualidade de vida, além de adversos impactos econômicos e sociais.
 
-As DCNT são divididas em doenças cardiovasculares (DCV), doenças do trato respiratório e neoplasias e são responsáveis por cerca de 70% das mortes globais, equivalendo a mais de 38 milhões de mortes por ano.^[World Health Organization, 2020]
+As DCNT são divididas em doenças cardiovasculares (DCV), doenças do trato respiratório e neoplasias e são responsáveis por cerca de 70% das mortes globais, equivalendo a mais de 38 milhões de mortes por ano.^[Cardiovascular Statistics - Brazil 2021. Arq Bras Cardiol. 2022;118(1):115]
 
-Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são causadas por DCV. Distribuição similar é observada no Brasil, onde 72% das mortes resultam de DCNT, sendo 30% devido a DCV e 16% a neoplasias.^[Global Burden Disease, 2020]
+Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são causadas por DCV. Distribuição similar é observada no Brasil, onde 72% das mortes resultam de DCNT, sendo 30% devido a DCV e 16% a neoplasias.^[Cardiovascular Statistics - Brazil 2021. Arq Bras Cardiol. 2022;118(1):115]
 
 <br>
 
@@ -39,21 +39,21 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 <br>
 
-- Tabagismo^[Organização Pan-Americana de Saúde, 2022]
+- Tabagismo^[Précoma DB, de Oliveira GMM, Simão AF, Dutra OP, Coelho OR, Izar MC de O, et al. Updated cardiovascular prevention guideline of the Brazilian society of cardiology – 2019. Arq Bras Cardiol. 2019;113(4):787–891]
 
-- Uso abusivo do álcool^[Organização Pan-Americana de Saúde, 2022]
+- Uso abusivo do álcool^[Précoma DB, de Oliveira GMM, Simão AF, Dutra OP, Coelho OR, Izar MC de O, et al. Updated cardiovascular prevention guideline of the Brazilian society of cardiology – 2019. Arq Bras Cardiol. 2019;113(4):787–891]
 
-- Sedentarismo^[Organização Pan-Americana de Saúde, 2022]
+- Sedentarismo^[Précoma DB, de Oliveira GMM, Simão AF, Dutra OP, Coelho OR, Izar MC de O, et al. Updated cardiovascular prevention guideline of the Brazilian society of cardiology – 2019. Arq Bras Cardiol. 2019;113(4):787–891]
 
-- Hipertensão arterial Sistêmica^[Organização Pan-Americana de Saúde, 2022]
+- Hipertensão arterial Sistêmica^[Précoma DB, de Oliveira GMM, Simão AF, Dutra OP, Coelho OR, Izar MC de O, et al. Updated cardiovascular prevention guideline of the Brazilian society of cardiology – 2019. Arq Bras Cardiol. 2019;113(4):787–891]
 
-- Colesterol alto^[Organização Pan-Americana de Saúde, 2022]
+- Colesterol alto^[Précoma DB, de Oliveira GMM, Simão AF, Dutra OP, Coelho OR, Izar MC de O, et al. Updated cardiovascular prevention guideline of the Brazilian society of cardiology – 2019. Arq Bras Cardiol. 2019;113(4):787–891]
 
-- Alimentação inadequada^[Organização Pan-Americana de Saúde, 2022]
+- Alimentação inadequada^[Précoma DB, de Oliveira GMM, Simão AF, Dutra OP, Coelho OR, Izar MC de O, et al. Updated cardiovascular prevention guideline of the Brazilian society of cardiology – 2019. Arq Bras Cardiol. 2019;113(4):787–891]
 
-- Obesidade^[Organização Pan-Americana de Saúde, 2022]
+- Obesidade^[Précoma DB, de Oliveira GMM, Simão AF, Dutra OP, Coelho OR, Izar MC de O, et al. Updated cardiovascular prevention guideline of the Brazilian society of cardiology – 2019. Arq Bras Cardiol. 2019;113(4):787–891]
 
-- Diabetes Mellitus^[Organização Pan-Americana de Saúde, 2022]
+- Diabetes Mellitus^[Précoma DB, de Oliveira GMM, Simão AF, Dutra OP, Coelho OR, Izar MC de O, et al. Updated cardiovascular prevention guideline of the Brazilian society of cardiology – 2019. Arq Bras Cardiol. 2019;113(4):787–891]
 
 <br>
 
@@ -65,13 +65,13 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
  
 ![](imagens/Jejum.png)	Evite longos períodos em jejum e tente comer de 3 em 3 horas
 
-![](imagens/Sal.png) Precisamos de sal no organismo, mas em pouca quantidade (Máximo 2 g/dia)^[Diretriz Brasileira de Hipertensão Arterial, 2020]
+![](imagens/Sal.png) Precisamos de sal no organismo, mas em pouca quantidade (Máximo 2 g/dia)^[Barroso WKS, Rodrigues CIS, Bortolotto LA, Mota-Gomes MA, Brandão AA, de Magalhães Feitosa AD, et al. Brazilian guidelines of hypertension - 2020. Arq Bras Cardiol. 2021;116(3):516–658]
 
 ![](imagens/Bebida alcoolica.png) Interrompa o	consumo	de bebida		alcóolica, cigarro, alimentos gordurosos e com alto teor de	açúcar (sorvetes, refrigerantes, etc)
 
-![](imagens/Atividade fisica.png) Realize semanalmente 150 minutos de exercícios de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo)^[American Hearth Associoation, 2022]
+![](imagens/Atividade fisica.png) Realize semanalmente 150 minutos de exercícios de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo)^[de Carvalho T, Milani M, Ferraz AS, da Silveira AD, Herdy AH, Hossri CAC, et al. Brazilian cardiovascular rehabilitation guideline – 2020. Arq Bras Cardiol. 2020;114(5):943–87]
 
-![](imagens/Hidrate.png) Hidrate-se antes, durante e após os exercícios, a mulher sedentária necessita de 2,2 litros por dia e, caso seja homem sedentário, de 2,9 litros por dia^[World Health Oganization, 2020]
+![](imagens/Hidrate.png) Hidrate-se antes, durante e após os exercícios. Em 2 a 4 horas antes do exercício aconselha-se o consumo de água equivalente a 5 a 10 mL/kg de peso corporal, durante o exercício recomenda-se a ingestão de 400 a 800 mL de água/hora de exercício e após o exercício a ingesta de ao menos 450 a 675 mL de líquido^[Panel E, Nda A. Scientific Opinion on Dietary Reference Values for water 1. 2010;8(3):1–48]
 
 ![](imagens/Urgência.png) Faça acompanhamento com equipe	multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular, Nutricionista)
 
@@ -81,11 +81,11 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 <br>
 
-- Exercícios aeróbicos (aquecimento, esteira ergométrica carga baixa, bicicleta ergométrica sem resistência, caminhada)^[Diretriz Brasileira de Reabilitação Cardiovascular, 2020]
+- Exercícios aeróbicos (aquecimento, esteira ergométrica carga baixa, bicicleta ergométrica sem resistência, caminhada)^[Carvalho T de, Milani M, Ferraz AS, Silveira AD da, Herdy AH, Hossri CAC, et al. Diretriz Brasileira de Reabilitação Cardiovascular – 2020. Arq Bras Cardiol. 2020 May;114(5):943–87]
 
-- Alongamentos gerais^[Diretriz Brasileira de Reabilitação Cardiovascular, 2020]
+- Exercícios de treinamento para musculatura inspiratória (40 a 60 % da PIMax na alta hospitalar)^[Carvalho T de, Milani M, Ferraz AS, Silveira AD da, Herdy AH, Hossri CAC, et al. Diretriz Brasileira de Reabilitação Cardiovascular – 2020. Arq Bras Cardiol. 2020 May;114(5):943–87]
 
-- Exercícios de treinamento para musculatura inspiratória (40 a 60 % da PIMax na alta hospitalar)^[Diretriz Brasileira de Reabilitação Cardiovascular, 2020]
+- Após receberem as instruções sobre a prescrição dos exercícios, os pacientes executam as sessões por conta própria, podendo haver documentação dos exercícios em planilhas impressas ou eletrônicas, com utilização de recursos como cardiofrequencímetros, pedômetros ou medidores de velocidade e distância percorrida por GPS. Aplicativos de smartphones podem intermediar a troca de informações entre os pacientes e a equipe assistencial.^[Carvalho T de, Milani M, Ferraz AS, Silveira AD da, Herdy AH, Hossri CAC, et al. Diretriz Brasileira de Reabilitação Cardiovascular – 2020. Arq Bras Cardiol. 2020 May;114(5):943–87]
                                             
 <center>
 ![](imagens/Recomendacao4.png)
@@ -97,7 +97,7 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 <br>
 
-- Se sentir algum mal-estar como: dor no peito, procure imediatamente o pronto socorro mais próximio
+- Se sentir algum mal-estar como: dor no peito, procure imediatamente o pronto socorro mais próximo
 
 - Se você possui histórico familiar de doença coronariana, for diabético, fumante, obeso ou possuir colesterol alto, tenha ainda mais atenção.
 
