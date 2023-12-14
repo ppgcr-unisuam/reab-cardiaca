@@ -15,7 +15,7 @@ navbar:
       href: [index.html]
     - text: "Reabilitação Cardíaca"
       icon: "fa-heart"
-      href: [reabilitacaocardiaca.html]
+      href: [reabilitacao-cardiaca.html]
   right:
     - text: "Cartilha"
       icon: "fa-file-pdf"

@@ -1,0 +1,118 @@
+---
+title: Reabilitação cardíaca
+date: '`r format(Sys.Date())`'
+author:
+  - name: Gabriel Parisotto, MSc
+  - name: Arthur de Sá Ferreira, DSc
+
+geometry: "top=3cm,left=3cm,right=2cm,bottom=2cm"
+link-citations: yes
+always_allow_html: true
+documentclass: book
+papersize: a4
+csl: vancouver.csl
+
+output:
+  html_document:
+    toc: false
+  bookdown::pdf_book:
+    number_sections: false
+    includes:
+    latex_engine: xelatex
+    keep_tex: no
+bibliography: references.bib
+---
+
+<br>
+
+# ![](imagens/Coracao1.png) **O que são doenças cardiovasculares?**
+
+<br>
+
+As doenças crônicas não transmissivéis (DCNT) constituem o principal causa de morte em todo o mundo, sendo responsáveis por mortes prematuras, perda de qualidade de vida, além de adversos impactos econômicos e sociais.
+
+As DCNT são divididas em doenças cardiovasculares (DCV), doenças do trato respiratório e neoplasias e são responsáveis por cerca de 70% das mortes globais, equivalendo a mais de 38 milhões de mortes por ano [@oliveira2022].
+
+Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são causadas por DCV. Distribuição similar é observada no Brasil, onde 72% das mortes resultam de DCNT, sendo 30% devido a DCV e 16% a neoplasias [@oliveira2022].
+
+<br>
+
+# ![](imagens/Causa2.png) **Quais as causas da doença cardiovascular?**
+
+<br>
+
+-   Tabagismo [@précoma2019].
+
+-   Uso abusivo do álcool [@précoma2019].
+
+-   Sedentarismo [@précoma2019].
+
+-   Hipertensão arterial Sistêmica [@précoma2019].
+
+-   Colesterol alto [@précoma2019].
+
+-   Alimentação inadequada [@précoma2019].
+
+-   Obesidade [@précoma2019].
+
+-   Diabetes Mellitus [@précoma2019].
+
+<br>
+
+# **Orientações após a alta hospitalar**
+
+<br>
+
+![](imagens/Cuidado.png) Cuidado com situações de estresse
+
+![](imagens/Jejum.png) Evite longos períodos em jejum e tente comer de 3 em 3 horas
+
+![](imagens/Sal.png) Precisamos de sal no organismo, mas em pouca quantidade, máximo 2 g/dia [REF].
+
+![](imagens/Bebida%20alcoolica.png) Interrompa o consumo de bebida alcóolica, cigarro, alimentos gordurosos e com alto teor de açúcar (sorvetes, refrigerantes, etc)
+
+![](imagens/Atividade%20fisica.png) Realize semanalmente 150 minutos de exercícios de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo)[^1]
+
+[^1]: de Carvalho T, Milani M, Ferraz AS, da Silveira AD, Herdy AH, Hossri CAC, et al. Brazilian cardiovascular rehabilitation guideline -- 2020. Arq Bras Cardiol. 2020;114(5):943--87
+
+![](imagens/Hidrate.png) Hidrate-se antes, durante e após os exercícios. Em 2 a 4 horas antes do exercício aconselha-se o consumo de água equivalente a 5 a 10 mL/kg de peso corporal, durante o exercício recomenda-se a ingestão de 400 a 800 mL de água/hora de exercício e após o exercício a ingesta de ao menos 450 a 675 mL de líquido[^2]
+
+[^2]: Panel E, Nda A. Scientific Opinion on Dietary Reference Values for water 1. 2010;8(3):1--48
+
+![](imagens/Urgência.png) Faça acompanhamento com equipe multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular, Nutricionista)
+
+<br>
+
+# ![](imagens/Roupas.png) **Orientação de atividade domiciliar**
+
+<br>
+
+-   Exercícios aeróbicos (aquecimento, esteira ergométrica carga baixa, bicicleta ergométrica sem resistência, caminhada)[^3]
+
+-   Exercícios de treinamento para musculatura inspiratória (40 a 60 % da PIMax na alta hospitalar)[^4]
+
+-   Após receberem as instruções sobre a prescrição dos exercícios, os pacientes executam as sessões por conta própria, podendo haver documentação dos exercícios em planilhas impressas ou eletrônicas, com utilização de recursos como cardiofrequencímetros, pedômetros ou medidores de velocidade e distância percorrida por GPS. Aplicativos de smartphones podem intermediar a troca de informações entre os pacientes e a equipe assistencial.[^5]
+
+[^3]: Carvalho T de, Milani M, Ferraz AS, Silveira AD da, Herdy AH, Hossri CAC, et al. Diretriz Brasileira de Reabilitação Cardiovascular -- 2020. Arq Bras Cardiol. 2020 May;114(5):943--87
+
+[^4]: Carvalho T de, Milani M, Ferraz AS, Silveira AD da, Herdy AH, Hossri CAC, et al. Diretriz Brasileira de Reabilitação Cardiovascular -- 2020. Arq Bras Cardiol. 2020 May;114(5):943--87
+
+[^5]: Carvalho T de, Milani M, Ferraz AS, Silveira AD da, Herdy AH, Hossri CAC, et al. Diretriz Brasileira de Reabilitação Cardiovascular -- 2020. Arq Bras Cardiol. 2020 May;114(5):943--87
+
+<center>![](imagens/Recomendacao4.png)</center>
+
+<br>
+
+# ![](imagens/Equipe4.png) **Quando procurar o serviço de urgência/emergência?**
+
+<br>
+
+-   Se sentir algum mal-estar como: dor no peito, procure imediatamente o pronto socorro mais próximo
+
+-   Se você possui histórico familiar de doença coronariana, for diabético, fumante, obeso ou possuir colesterol alto, tenha ainda mais atenção.
+
+<br>
+
+# **Referências**
+
+<br>
