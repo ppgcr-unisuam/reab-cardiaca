@@ -1,0 +1,70 @@
+---
+title: Clínica Respcardio
+date: '`r format(Sys.Date())`'
+author:
+  - name: Gabriel Parisotto, MSc
+  - name: Arthur de Sá Ferreira, DSc
+
+geometry: "top=3cm,left=3cm,right=2cm,bottom=2cm"
+link-citations: yes
+always_allow_html: true
+documentclass: book
+papersize: a4
+csl: vancouver.csl
+
+output:
+  html_document:
+    toc: false
+  bookdown::pdf_book:
+    number_sections: false
+    includes:
+    latex_engine: xelatex
+    keep_tex: no
+bibliography: references.bib
+---
+
+<br>
+
+# ![](imagens/Fisioterapia5.png) **Sócios proprietários**
+
+<br>
+
+Gabriel Parisotto \| [Email](mailto:gabriel_parizoto@yahoo.com.br) \| [Celular](tel:+55%2095%2098120-4162) \| [Currículo Lattes](https://lattes.cnpq.br/7092814362835725)
+
+Lisandro Cerveira \| [Email](mailto:gabriel_parizoto@yahoo.com.br) \| [Celular](tel:+55%2095%2098120-4162) \| [Currículo Lattes](http://lattes.cnpq.br/5430277146097344)
+
+<br>
+
+# ![](imagens/Fisioterapia5.png) **Equipe de Fisioterapia**
+
+<br>
+
+Ananda Rodrigues \| [Email](mailto:anandaarievilo@icloud.com) \| [Celular](tel:+55%2095%2098102-6848)
+
+Danielly Barreto \| [Email](mailto:danielly.fisiorr@gmail.com) \| [Celular](tel:+55%2095%2098112-4082)
+
+Dayanna Cristiny Castro \| [Email](mailto:castrodayanna@yahoo.com.br) \| [Celular](tel:+55%2095%2098100-5950) \| [Currículo Lattes](http://lattes.cnpq.br/7572713717592560)
+
+Helouise Canavarro\| [Email](mailto:helouisecs@gmail.com) \| [Celular](tel:+55%2095%2099138-8319) \| [Currículo Lattes](http://lattes.cnpq.br/9578184749144795)
+
+Jessica Elmore \| [Email](mailto:elmorevick@gmail.com) \| [Celular](tel:+55%2095%209903-1473) \| [Currículo Lattes](http://lattes.cnpq.br/5132354074892683)
+
+João Victor Carvalho Reis \| [Email](mailto:victorcarvalhoreis@hotmail.com) \| [Celular](tel:+55%2095%2098117-0587) \| [Currículo Lattes](http://lattes.cnpq.br/6590588285794581)
+
+Karolainy Mourão \| [Email](mailto:mouraokarolainy@gmail.com) \| [Celular](tel:+55%2095%2099112-3899)
+
+Kássia Regina \| [Email](mailto:celsa_mateus@hotmail.com) \| [Celular](tel:+55%2095%2099136-6022)
+
+Lidiellen Dionizio \| [Email](mailto:lidiellenjdionizio@gmail.com) \| [Celular](tel:+55%2095%2098106-3996)
+
+Lully Vieira \| [Email](mailto:lullyvieira92@gmail.com) \| [Celular](tel:+55%2095%2099103-2843)
+
+Nayrla Carvalho \| [Email](mailto:cnayrla@gmail.com) \| [Celular](tel:+55%2095%2099111-1507) \| [Currículo Lattes](http://lattes.cnpq.br/702351116861671)
+
+Roniel Silva \| [Email](mailto:roniel.silva21@gmail.com) \| [Celular](tel:+55%2095%2099121-8978)
+
+Rosicléia Alves de Araújo \| [Email](mailto:cleiaa3217@gmail.com) \| [Celular](tel:+55%2095%2099111-1507)
+
+Thereza Cristina \| [Email](mailto:therezacristina15@gmail.com) \| [Celular](tel:+55%2095%2099161-8496)
+
+<br>

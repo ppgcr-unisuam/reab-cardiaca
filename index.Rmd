@@ -1,10 +1,6 @@
 ---
 title: Clínica Respcardio
 date: '`r format(Sys.Date())`'
-author:
-  - name: Gabriel Parisotto, MSc
-  - name: Arthur de Sá Ferreira, DSc
-
 geometry: "top=3cm,left=3cm,right=2cm,bottom=2cm"
 link-citations: yes
 always_allow_html: true
