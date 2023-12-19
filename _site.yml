@@ -19,7 +19,7 @@ navbar:
   right:
     - text: "Cartilha"
       icon: "fa-file-pdf"
-      href: [index.pdf]
+      href: [reabilitacao-cardiaca.pdf]
 
 output:
   html_document:

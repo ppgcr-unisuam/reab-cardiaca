@@ -41,21 +41,21 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 <br>
 
--   Tabagismo [@précoma2019].
+-   Tabagismo [@précoma2019]
 
--   Uso abusivo do álcool [@précoma2019].
+-   Uso abusivo do álcool [@précoma2019]
 
--   Sedentarismo [@précoma2019].
+-   Sedentarismo [@précoma2019]
 
--   Hipertensão arterial Sistêmica [@précoma2019].
+-   Hipertensão arterial Sistêmica [@précoma2019]
 
--   Colesterol alto [@précoma2019].
+-   Colesterol alto [@précoma2019]
 
--   Alimentação inadequada [@précoma2019].
+-   Alimentação inadequada [@précoma2019]
 
--   Obesidade [@précoma2019].
+-   Obesidade [@précoma2019]
 
--   Diabetes Mellitus [@précoma2019].
+-   Diabetes Mellitus [@précoma2019]
 
 <br>
 
@@ -63,19 +63,19 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 <br>
 
-![](imagens/Cuidado.png) Cuidado com situações de estresse.
+![](imagens/Cuidado.png) Cuidado com situações de estresse
 
-![](imagens/Jejum.png) Evite longos períodos em jejum e tente comer de 3 em 3 horas.
+![](imagens/Jejum.png) Evite longos períodos em jejum e tente comer de 3 em 3 horas
 
-![](imagens/Sal.png) Precisamos de sal no organismo, mas em pouca quantidade, máximo 2 g/dia [@carey2018].
+![](imagens/Sal.png) Precisamos de sal no organismo, mas em pouca quantidade, máximo 2 g/dia [REF]
 
-![](imagens/Bebida alcoolica.png) Interrompa o consumo de bebida alcóolica, cigarro, alimentos gordurosos e com alto teor de açúcar (sorvetes, refrigerantes, etc).
+![](imagens/Bebida alcoolica.png) Interrompa o consumo de bebida alcóolica, cigarro, alimentos gordurosos e com alto teor de açúcar (sorvetes, refrigerantes, etc.)
 
-![](imagens/Atividade%20fisica.png) Realize semanalmente 150 minutos de exercícios de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo)[@carvalho2020].
+![](imagens/Atividade%20fisica.png) Realize semanalmente 150 minutos de exercícios de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo)[REF]
 
-![](imagens/Hidrate.png) Hidrate-se antes, durante e após os exercícios. Em 2 a 4 horas antes do exercício aconselha-se o consumo de água equivalente a 5 a 10 mL/kg de peso corporal, durante o exercício recomenda-se a ingestão de 400 a 800 mL de água/hora de exercício e após o exercício a ingesta de ao menos 450 a 675 mL de líquido [@exercise2007].
+![](imagens/Hidrate.png) Hidrate-se antes, durante e após os exercícios. Em 2 a 4 horas antes do exercício aconselha-se o consumo de água equivalente a 5 a 10 mL/kg de peso corporal, durante o exercício recomenda-se a ingestão de 400 a 800 mL de água/hora de exercício e após o exercício a ingesta de ao menos 450 a 675 mL de líquido [REF]
 
-![](imagens/Urgência.png) Faça acompanhamento com equipe multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular, Nutricionista).
+![](imagens/Urgencia.png) Faça acompanhamento com equipe multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular, Nutricionista)
 
 <br>
 
@@ -83,11 +83,11 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 <br>
 
--   Exercícios aeróbicos (aquecimento, esteira ergométrica carga baixa, bicicleta ergométrica sem resistência, caminhada)[@carvalho2020].
+-   Exercícios aeróbicos (aquecimento, esteira ergométrica carga baixa, bicicleta ergométrica sem resistência, caminhada)[REF]
 
--   Exercícios de treinamento para musculatura inspiratória (40 a 60 % da PIMax na alta hospitalar)[@carvalho2020].
+-   Exercícios de treinamento para musculatura inspiratória (40 a 60 % da PIMax na alta hospitalar)[REF]
 
--   Após receberem as instruções sobre a prescrição dos exercícios, os pacientes executam as sessões por conta própria, podendo haver documentação dos exercícios em planilhas impressas ou eletrônicas, com utilização de recursos como cardiofrequencímetros, pedômetros ou medidores de velocidade e distância percorrida por GPS. Aplicativos de smartphones podem intermediar a troca de informações entre os pacientes e a equipe assistencial [@carvalho2020].
+-   Após receberem as instruções sobre a prescrição dos exercícios, os pacientes executam as sessões por conta própria, podendo haver documentação dos exercícios em planilhas impressas ou eletrônicas, com utilização de recursos como cardiofrequencímetros, pedômetros ou medidores de velocidade e distância percorrida por GPS. Aplicativos de smartphones podem intermediar a troca de informações entre os pacientes e a equipe assistencial [REF]
 
 <center>![](imagens/Recomendacao4.png)</center>
 
@@ -99,7 +99,7 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 -   Se sentir algum mal-estar como: dor no peito, procure imediatamente o pronto socorro mais próximo
 
--   Se você possui histórico familiar de doença coronariana, for diabético, fumante, obeso ou possuir colesterol alto, tenha ainda mais atenção.
+-   Se você possui histórico familiar de doença coronariana, for diabético, fumante, obeso ou possuir colesterol alto, tenha ainda mais atenção
 
 <br>
 
