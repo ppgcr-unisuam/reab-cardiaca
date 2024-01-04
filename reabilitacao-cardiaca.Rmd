@@ -67,13 +67,13 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 ![](imagens/Jejum.png) Evite longos períodos em jejum e tente comer de 3 em 3 horas
 
-![](imagens/Sal.png) Precisamos de sal no organismo, mas em pouca quantidade, máximo 2 g/dia [REF]
+![](imagens/Sal.png) Precisamos de sal no organismo, mas em pouca quantidade, máximo 2 g/dia [@powles2013].
 
 ![](imagens/Bebida alcoolica.png) Interrompa o consumo de bebida alcóolica, cigarro, alimentos gordurosos e com alto teor de açúcar (sorvetes, refrigerantes, etc.)
 
-![](imagens/Atividade%20fisica.png) Realize semanalmente 150 minutos de exercícios de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo)[REF]
+![](imagens/Atividade fisica.png) Realize semanalmente 150 minutos de exercícios de intensidade leve/moderada (caminhada, exercício ativo livre, bicicleta, atividades em grupo) [@précoma2019].
 
-![](imagens/Hidrate.png) Hidrate-se antes, durante e após os exercícios. Em 2 a 4 horas antes do exercício aconselha-se o consumo de água equivalente a 5 a 10 mL/kg de peso corporal, durante o exercício recomenda-se a ingestão de 400 a 800 mL de água/hora de exercício e após o exercício a ingesta de ao menos 450 a 675 mL de líquido [REF]
+![](imagens/Hidrate.png) Hidrate-se antes, durante e após os exercícios. Em 2 a 4 horas antes do exercício aconselha-se o consumo de água equivalente a 5 a 10 mL/kg de peso corporal, durante o exercício recomenda-se a ingestão de 400 a 800 mL de água/hora de exercício e após o exercício a ingesta de ao menos 450 a 675 mL de líquido [@exercise2007].
 
 ![](imagens/Urgencia.png) Faça acompanhamento com equipe multidisciplinar (Cardiologista, Fisioterapeuta cardiovascular, Nutricionista)
 
@@ -83,13 +83,15 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 <br>
 
--   Exercícios aeróbicos (aquecimento, esteira ergométrica carga baixa, bicicleta ergométrica sem resistência, caminhada)[REF]
+-   Os exercícios aeróbicos (caminhada, corrida, ciclismo ou natação) podem ser praticados por 30 minutos em 5 a 7 dias por semana. A realização de exercícios resistidos em 2 a 3 dias por semana também pode ser recomendado [@cornelissen2013].
 
--   Exercícios de treinamento para musculatura inspiratória (40 a 60 % da PIMax na alta hospitalar)[REF]
+-   Exercícios de treinamento para musculatura inspiratória em 3 séries x 10 repetições (40 a 60 % da PIMax na alta hospitalar) [@cordeiro2016].
 
--   Após receberem as instruções sobre a prescrição dos exercícios, os pacientes executam as sessões por conta própria, podendo haver documentação dos exercícios em planilhas impressas ou eletrônicas, com utilização de recursos como cardiofrequencímetros, pedômetros ou medidores de velocidade e distância percorrida por GPS. Aplicativos de smartphones podem intermediar a troca de informações entre os pacientes e a equipe assistencial [REF]
+-   Após receberem as instruções sobre a prescrição dos exercícios, os pacientes executam as sessões por conta própria e na falta de equipamentos domésticos, como esteira e cicloergômetros, as atividades deverão ser substituídas por exercícios calistênicos (cadeiras como equipamentos), exercícios de resistência/equilíbrio, dança, yoga, etc [@lavie2020].
 
-<center>![](imagens/Recomendacao4.png)</center>
+<br>
+
+# ![](imagens/Recomendacao4.png)
 
 <br>
 
