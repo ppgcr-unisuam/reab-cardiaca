@@ -1,9 +1,9 @@
 ---
 title: Reabilitação cardíaca
-date: '`r format(Sys.Date())`'
 author:
-  - name: Gabriel Parisotto, MSc
-  - name: Arthur de Sá Ferreira, DSc
+  - Gabriel Parisotto, MSc
+  - Arthur de Sá Ferreira, DSc
+date: '`r format(Sys.Date())`'
 
 geometry: "top=3cm,left=3cm,right=2cm,bottom=2cm"
 link-citations: yes
@@ -16,12 +16,33 @@ output:
   html_document:
     toc: false
   bookdown::pdf_book:
+    rmd_files:
+      latex: ["reabilitacao-cardiaca.Rmd"]
     number_sections: false
-    includes:
     latex_engine: xelatex
     keep_tex: no
+    papersize: a4
+    includes:
+      in_header: [tex/preamble.tex]
+    dev: "cairo_pdf"
+    fig_caption: true
+    
 bibliography: references.bib
 ---
+
+```{=latex}
+\clearpage
+\markboth{}{}
+```
+
+```{=latex}
+\vspace*{\fill}
+```
+
+```{=latex}
+% normal chapter numbering and arabic page numbering
+\mainmatter
+```
 
 <br>
 
@@ -91,7 +112,7 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 <br>
 
-# ![](imagens/Recomendacao4.png)
+![](imagens/Recomendacao4.png)
 
 <br>
 
