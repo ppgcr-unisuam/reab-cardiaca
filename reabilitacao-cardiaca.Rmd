@@ -16,19 +16,41 @@ output:
   html_document:
     toc: false
   bookdown::pdf_book:
-    rmd_files:
-      latex: ["reabilitacao-cardiaca.Rmd"]
-    number_sections: false
-    latex_engine: xelatex
-    keep_tex: no
-    papersize: a4
+    toc: true
     includes:
       in_header: [tex/preamble.tex]
+    rmd_files:
+      latex: ["reabilitacao-cardiaca.Rmd"]
+    latex_engine: xelatex
+    keep_tex: false
     dev: "cairo_pdf"
     fig_caption: true
     
 bibliography: references.bib
 ---
+
+<!--install and/or load all R packages-->
+```{r setup, include = FALSE, echo = FALSE, warning = FALSE, message = FALSE, fig.align = 'center', out.width = "100%", results = "hide"}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  fig.align = 'center',
+  results = "asis",
+  include = TRUE,
+  out.width = "100%",
+  knitr.kable.NA = '',
+  knitr.table.format = "html",
+  webshot = "webshot",
+  dev = "png",
+  dev = "png"
+)
+```
+
+```{r packages, echo = FALSE, results = 'hide', include = FALSE}
+library("dplyr")
+library("webshot")
+```
 
 ```{=latex}
 \clearpage
@@ -112,7 +134,43 @@ Cerca de 45% de todas as mortes por DCNT no mundo, mais de 17 milhões, são cau
 
 <br>
 
-![](imagens/Recomendacao4.png)
+```{r tabela, echo = FALSE, warning = FALSE, message = FALSE, fig.align = 'center', results = "asis"}
+tabela <-
+  readxl::read_excel(
+    "Recomendações por idade (Tabela).xlsx",
+    sheet = 1,
+    col_types = c("text")
+  )
+
+tabela <- as.matrix(tabela)
+
+# exibe a tabela de dados
+knitr::kable(
+  x = tabela,
+  align = "l",
+  escape = FALSE,
+  format = ifelse(knitr::is_html_output(), "html", "latex"),
+  booktabs = TRUE,
+  linesep = "",
+  caption = "Tabela de recomendações por idade."
+) %>% kableExtra::kable_styling(
+  bootstrap_options = c("striped", "hover", "condensed", "responsive"),
+  latex_options = c("striped", "repeat_header", "HOLD_position"),
+  latex_table_env = "tabularx",
+  full_width = TRUE,
+  position = "center"
+) %>%
+  kableExtra::kable_styling(
+    latex_options = c("basic"),
+    bootstrap_options = c("basic", "hover", "condensed", "responsive"),
+    full_width = ifelse(knitr::is_html_output(), TRUE, TRUE),
+    position = "center"
+  ) %>%
+  kableExtra::row_spec(0, bold = TRUE, extra_css = "border-top: 1px solid; border-bottom: 1px solid") %>%
+  kableExtra::column_spec(1, bold = TRUE) %>%
+  kableExtra::row_spec(dim(tabela)[1], extra_css = "border-bottom: 1px solid") %>%
+  kableExtra::column_spec(column = 1, bold = T)
+```
 
 <br>
 

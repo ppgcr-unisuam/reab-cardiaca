@@ -1,66 +1,56 @@
-% to use Portuguese-Brazil
+% Load packages
 \usepackage[brazilian]{babel}
-
-% marca d'agua
-\usepackage{draftwatermark}
-
-% icons
+\usepackage{fontspec}
+\usepackage[T1]{fontenc} % Ensure font encoding is consistent
+\usepackage[utf8]{inputenc} % Ensure proper input encoding
+\usepackage{lmodern} % Use Latin Modern font
+\usepackage{amsmath} % For math functions
 \usepackage{academicons}
-
-% fontawesome icons
 \usepackage{fontawesome5}
 
-% \usepackage{fontspec}
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage{lmodern}
-\setmainfont{Times New Roman}
-
-% to display and enumerate math functions
-\usepackage{amsmath}
-
-% figuras e tabelas
-\usepackage{float}
-% tables
+% from kable
 \usepackage{booktabs}
-% long tables across pages
 \usepackage{longtable}
-% include graphics
-\usepackage{graphicx}
-% work with SVG files
-\usepackage[notransparent]{svg}
-
-% page size and margin
-\usepackage{geometry}
-
-% create commands
-\usepackage{letltxmacro}
-
-% get PDF pages
-\usepackage{pdfpages}
-
-% using colors
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{placeins}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
 \usepackage{xcolor}
-% colored boxes
+\usepackage{tabularray}
+\usepackage{ltablex}
+\usepackage{tabularx}
+\keepXColumns % Keep X columns
+\usepackage{graphicx}
+\usepackage{letltxmacro}
+\usepackage{pdfpages}
+\usepackage[notransparent]{svg}
 \usepackage{tcolorbox}
-
-% add citation to the bibliography 
-\usepackage{tocbibind}
-% titles of toc, lof, lot
-\usepackage[titles]{tocloft}
-
-% hyperlinks
-\usepackage[spaces,obeyspaces,hyphens]{url}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{url}
+\usepackage[hyphens]{url}
 \usepackage[linktoc=all]{hyperref}
+\PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
+
 
 % commands
 \makeatletter
 \g@addto@macro{\UrlBreaks}{\UrlOrds}
 \makeatother
 
+% Watermark
+\usepackage{draftwatermark}
 \SetWatermarkLightness{0.9}
 \SetWatermarkText{RASCUNHO}
-\SetWatermarkScale{0.9}
+\SetWatermarkScale{1}
 
 % \AtBeginDocument{\let\maketitle\relax}
 
